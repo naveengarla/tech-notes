@@ -1,21 +1,26 @@
-# Welcome to Tech Notes
+# Welcome
 
-Hi! I'm **Naveen Garla**, and this is my technical knowledge base where I share insights, articles, and notes on:
+After more than two decades in software engineering — moving from developer to enterprise architect — I've accumulated countless notes, diagrams, principles, mistakes, and hard-earned lessons.
 
-- **Backend Development** – APIs, microservices, design patterns
-- **Cloud & Infrastructure** – AWS, Azure, containerization, orchestration
-- **GenAI & ML** – Generative AI applications, LLMs, AI agents
-- **Architecture** – System design, scalability, best practices
-- **DevOps & Tools** – CI/CD, automation, modern development workflows
+This is where I organize them in public.
 
-## Latest Posts
+## What You'll Find Here
 
-Check out the [Blog](blog/) section for my latest articles and technical deep-dives.
+Technical writing focused on real-world experience:
 
-## About This Site
+**Enterprise Architecture** · API platforms · DevSecOps governance · Reference architectures  
+**Cloud & Infrastructure** · AKS · API Management · Kubernetes · Observability patterns  
+**GenAI & Platform Engineering** · LLM integration · Agentic systems · Production AI  
+**Systems Thinking** · Technical leadership · Governance · Strategic architecture
 
-This site is built with [MkDocs](https://www.mkdocs.org/) and the beautiful [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) theme. All content is version-controlled and automatically deployed via GitHub Actions.
+## Recent Articles
+
+Check out the [Blog](blog/) for the latest posts, or browse by [Tags](blog/tags/) and [Categories](blog/category/).
 
 ---
 
-*Stay curious, keep learning!*
+## Connect
+
+**[GitHub](https://github.com/naveengarla)** · **[LinkedIn](https://linkedin.com/in/naveengarla)**
+
+Writing forces clarity. Let's build systems worth remembering.
