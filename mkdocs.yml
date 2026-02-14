@@ -63,15 +63,12 @@ plugins:
       draft_if_future_date: true
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  - tags:
-      tags_file: blog/tags.md
   - rss:
       match_path: blog/posts/.*
       date_from_meta:
         as_creation: date
       categories:
         - categories
-        - tags
 
 markdown_extensions:
   - abbr
