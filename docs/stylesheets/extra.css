@@ -1,0 +1,84 @@
+/* Blog post listing enhancements */
+.md-typeset article.blog-post {
+    margin-bottom: 3em;
+    padding-bottom: 2em;
+    border-bottom: 1px solid var(--md-default-fg-color--lightest);
+}
+
+.md-typeset article.blog-post:last-child {
+    border-bottom: none;
+}
+
+/* Post metadata styling */
+.md-typeset .blog-post time,
+.md-typeset .blog-post .blog-post-authors,
+.md-typeset .blog-post .blog-post-readtime {
+    color: var(--md-default-fg-color--light);
+    font-size: 0.8rem;
+}
+
+/* Post title styling */
+.md-typeset article.blog-post h2 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    font-weight: 600;
+}
+
+.md-typeset article.blog-post h2 a {
+    color: var(--md-typeset-a-color);
+    text-decoration: none;
+}
+
+.md-typeset article.blog-post h2 a:hover {
+    color: var(--md-accent-fg-color);
+}
+
+/* Post excerpt styling */
+.md-typeset article.blog-post p {
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+    line-height: 1.7;
+}
+
+/* Category tags styling */
+.md-typeset .blog-post-categories {
+    margin-top: 1em;
+}
+
+.md-typeset .blog-post-categories a {
+    display: inline-block;
+    padding: 0.2em 0.6em;
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    font-size: 0.75rem;
+    background-color: var(--md-default-fg-color--lightest);
+    border-radius: 0.2rem;
+    text-decoration: none;
+    color: var(--md-default-fg-color);
+}
+
+.md-typeset .blog-post-categories a:hover {
+    background-color: var(--md-accent-fg-color);
+    color: var(--md-accent-bg-color);
+}
+
+/* Continue reading link */
+.md-typeset article.blog-post .blog-post-readmore {
+    margin-top: 1em;
+    font-weight: 500;
+}
+
+/* Archive page styling */
+.md-typeset .blog-archive h2 {
+    margin-top: 2em;
+    margin-bottom: 1em;
+    font-size: 1.5em;
+    font-weight: 600;
+}
+
+/* Pagination styling */
+.md-typeset .blog-pagination {
+    margin-top: 3em;
+    padding-top: 2em;
+    border-top: 1px solid var(--md-default-fg-color--lightest);
+}
