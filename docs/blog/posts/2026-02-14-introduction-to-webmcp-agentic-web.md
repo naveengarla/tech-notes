@@ -7,7 +7,7 @@ categories:
   - Chrome
   - JavaScript
 authors:
-  - Naveen Garla
+  - naveengarla
 ---
 
 # Unlocking the Agentic Web: An Introduction to WebMCP for Experienced Developers
@@ -17,6 +17,8 @@ As a backend developer who has worked extensively with FastAPI, microservices, C
 Now imagine those same structured, reliable interactions — but happening **inside the browser**, driven by an AI agent that can reason, plan, and execute multi-step tasks on behalf of the user — without screen scraping, brittle selectors, or simulated clicks.
 
 This is the core promise of the emerging **agentic web**.
+
+<!-- more -->
 
 And the technology that is starting to make it practical in the browser is **WebMCP** (Web Model Context Protocol).
 
